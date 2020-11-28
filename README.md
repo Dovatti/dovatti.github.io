@@ -1,2 +1,2 @@
 # dovatti.github.io
-my personal portfolio hosted here on GitHub
+My personal portfolio hosted here on GitHub
